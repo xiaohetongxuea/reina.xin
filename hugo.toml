@@ -1,0 +1,22 @@
+baseURL = 'https://reina.xin/'
+locale = 'zh-CN'
+title = 'KiriharaReina'
+theme = 'reimu'
+
+# Markup - required by reimu theme
+[markup]
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = false
+    lineNumbers = 'table'
+
+# Outputs (for Algolia search if needed)
+[outputs]
+  home = ['HTML', 'RSS', 'Algolia']
+
+[outputFormats]
+  [outputFormats.Algolia]
+    baseName = 'algolia'
+    isPlainText = true
+    mediaType = 'application/json'
+    notAlternative = true
