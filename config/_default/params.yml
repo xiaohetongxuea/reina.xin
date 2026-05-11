@@ -25,8 +25,8 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: KiriharaReina
 email: kiriharareina@example.com
-description: "我只想，一个人，静静地，做一些事�?
-# subtitle: "少女祈祷�?.."
+description: "我只想，一个人，静静地，做一些事�?
+# subtitle: "少女祈祷�?.."
 subtitle:
   typing:
     enable: false
@@ -35,14 +35,14 @@ subtitle:
       # - Sentence 2
       # - Sentence 3
       # - Sentence 4
-    typeSpeed: 100              # 打字速度（毫�?字符�?
-    backSpeed: 50               # 删除速度（毫�?字符�?    backDelay: 2000             # 打完一句话后，等待时间
+    typeSpeed: 100              # 打字速度（毫�?字符�?
+    backSpeed: 50               # 删除速度（毫�?字符�?    backDelay: 2000             # 打完一句话后，等待时间
     startDelay: 300             # 页面加载后，等待时间
     loop: true                  # 是否循环播放
     shuffle: true              # 是否随机输出句子
-    showCursor: true            # 是否显示闪烁的字�?    cursorChar: "|"             # 字符
+    showCursor: true            # 是否显示闪烁的字�?    cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "我只想，一个人，静静地，做一些事�?        # �?typing.enable = false 时使�?
+  text: "我只想，一个人，静静地，做一些事�?        # �?typing.enable = false 时使�?
 banner: "images/banner.png"
 # You can also write it in the form of the following url
 # banner: "https://example.com"
@@ -297,10 +297,10 @@ clipboard:
     en: Copy successfully (*^▽^*)
     zh-CN: 复制成功 (*^▽^*)
     zh-TW: 複製成功 (*^▽^*)
-    ja: コピー成�?(*^▽^*)
+    ja: コピー成�?(*^▽^*)
     pt-BR: Copiado com sucesso (*^▽^*)
   fail: 
-    en: Copy failed (ﾟ⊿�?�?    zh-CN: 复制失败 (ﾟ⊿�?�?    zh-TW: 複製失敗 (ﾟ⊿�?�?    ja: コピー失�?(ﾟ⊿�?�?    pt-BR: Falha ao copiar (ﾟ⊿�?�?  copyright:
+    en: Copy failed (ﾟ⊿�?�?    zh-CN: 复制失败 (ﾟ⊿�?�?    zh-TW: 複製失敗 (ﾟ⊿�?�?    ja: コピー失�?(ﾟ⊿�?�?    pt-BR: Falha ao copiar (ﾟ⊿�?�?  copyright:
     enable: false
     count: 50 # The number of characters when the copyright is displayed
     license_type: by-nc-sa # https://creativecommons.org/licenses
@@ -348,7 +348,7 @@ comment:
   # comment system title
   title:
     en: Leave a comment
-    zh-CN: 说些什么吧�?    zh-TW: 說些什麼吧�?    ja: コメントを残�?    pt-BR: Deixe um comentário
+    zh-CN: 说些什么吧�?    zh-TW: 說些什麼吧�?    ja: コメントを残�?    pt-BR: Deixe um comentário
   default: twikoo # default comment system, when you enable multiple comment systems
 
 # valine comment system. https://valine.js.org
@@ -395,7 +395,7 @@ waline:
 # https://twikoo.js.org
 twikoo:
   enable: true
-  envId: http://8.134.89.77:8080
+  envId: https://reina.xin
   region:
   meta:
     - nick
@@ -474,9 +474,9 @@ algolia_search:
 preloader:
   enable: true
   text:
-    zh-CN: 我只想，一个人，静静地，做一些事�?    zh-TW: 少女祈禱�?..
+    zh-CN: 我只想，一个人，静静地，做一些事�?    zh-TW: 少女祈禱�?..
     en: Loading...
-    ja: 少女祈祷�?..
+    ja: 少女祈祷�?..
     pt-BR: Carregando...
   icon: # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
   rotate: true # whether to rotate the icon
@@ -565,15 +565,15 @@ outdate:
   daysAgo: 180 # The number of days after which the article is considered outdated
   message:
     en: This article was last updated on {time}. Please note that the content may no longer be applicable.
-    zh-CN: 本文最后更新于 {time}，请注意文中内容可能已不适用�?    zh-TW: 本文最後更新於 {time}，請注意文中內容可能已不適用�?    ja: この記事は最終更新日：{time}。記載内容が現在有効でない可能性がありますのでご注意ください�?    pt-BR: Este artigo foi atualizado pela última vez em {time}. Observe que o conteúdo pode não ser mais aplicável.
+    zh-CN: 本文最后更新于 {time}，请注意文中内容可能已不适用�?    zh-TW: 本文最後更新於 {time}，請注意文中內容可能已不適用�?    ja: この記事は最終更新日：{time}。記載内容が現在有効でない可能性がありますのでご注意ください�?    pt-BR: Este artigo foi atualizado pela última vez em {time}. Observe que o conteúdo pode não ser mais aplicável.
 
 # ICP 备案
 icp:
-  icpnumber: # ICP备案�?  beian: # 网安备案�?  recordcode: # 网安备案链接中的recordcode参数
+  icpnumber: # ICP备案�?  beian: # 网安备案�?  recordcode: # 网安备案链接中的recordcode参数
 
 # 萌国 ICP 备案
 moe_icp:
-  icpnumber: # 萌国ICP备案�?
+  icpnumber: # 萌国ICP备案�?
 # Sponsor
 sponsor:
   enable: false
@@ -588,7 +588,7 @@ sponsor:
     rotate: true
     mask: true # whether to use the images as a mask
   qr:
-    # - name: 支付�?    #   src: "sponsor/alipay.jpg"
+    # - name: 支付�?    #   src: "sponsor/alipay.jpg"
     # - name: 微信
     #   src: "sponsor/wechat.png"
 
