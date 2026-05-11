@@ -405,8 +405,8 @@ waline:
 
 # https://twikoo.js.org
 twikoo:
-  enable: false
-  envId: https://twikoo-15vx.vercel.app
+  enable: true
+  envId: https://21145.vercel.app
   region:
   meta:
     - nick
@@ -447,7 +447,7 @@ disqus:
 
 # https://utteranc.es
 utterances:
-  enable: true
+  enable: false
   repo: xiaohetongxuea/reina.xin
   issue_term: pathname
   theme: gruvbox-dark # auto means to automatically adapt to dark and light themes, you can also use specific themes like github-light, github-dark, preferred-color-scheme, etc.
