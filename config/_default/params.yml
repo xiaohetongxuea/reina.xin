@@ -395,7 +395,7 @@ waline:
 # https://twikoo.js.org
 twikoo:
   enable: true
-  envId: https://reina.xin
+  envId: /api
   region:
   meta:
     - nick
