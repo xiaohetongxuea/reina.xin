@@ -405,8 +405,8 @@ waline:
 
 # https://twikoo.js.org
 twikoo:
-  enable: false
-  envId: # 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+  enable: true
+  envId: https://pl-seven-gilt.vercel.app
   region:
 
 # https://github.com/gitalk/gitalk/blob/master/readme-cn.md
@@ -421,7 +421,7 @@ gitalk:
 
 # https://giscus.app/zh-CN
 giscus:
-  enable: true
+  enable: false
   repo: xiaohetongxuea/reina.xin
   repoId: R_kgDOSZiixA
   category: Announcements
