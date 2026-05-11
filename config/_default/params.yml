@@ -25,7 +25,7 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: KiriharaReina
 email: kiriharareina@example.com
-description: "少女祈祷中..."
+description: "我只想，一个人，静静的，做一些事情"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -44,7 +44,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+  text: "我只想，一个人，静静的，做一些事情"        # 当 typing.enable = false 时使用
 
 banner: "images/banner.png"
 # You can also write it in the form of the following url
@@ -480,8 +480,8 @@ algolia_search:
 
 preloader:
   enable: true
-  text: 
-    zh-CN: 少女祈祷中...
+  text:
+    zh-CN: 我只想，一个人，静静的，做一些事情
     zh-TW: 少女祈禱中...
     en: Loading...
     ja: 少女祈祷中...
