@@ -408,6 +408,10 @@ twikoo:
   enable: true
   envId: https://pl-seven-gilt.vercel.app
   region:
+  meta:
+    - nick
+  requiredMeta:
+    - nick
 
 # https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 gitalk:
