@@ -406,7 +406,7 @@ waline:
 # https://twikoo.js.org
 twikoo:
   enable: true
-  envId: https://21145.vercel.app
+  envId: http://8.134.89.77:8080
   region:
   meta:
     - nick
