@@ -1,7 +1,7 @@
 ﻿---
 title: 价值
 date: 2026-05-11
-cover: 5.webp
+cover: 6.webp
 tags:
   - 日常
 categories:

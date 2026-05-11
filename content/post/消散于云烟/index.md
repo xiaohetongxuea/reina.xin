@@ -1,6 +1,7 @@
 ---
 title: 消散于云烟
 date: 2026-04-04
+cover: 7.webp
 tags:
   - 随笔
 categories:
