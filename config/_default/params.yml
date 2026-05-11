@@ -395,7 +395,7 @@ waline:
 # https://twikoo.js.org
 twikoo:
   enable: true
-  envId: https://reina.xin
+  envId: https://elegant-tanuki-07e943.netlify.app/.netlify/functions/twikoo
   region:
   meta:
     - nick
