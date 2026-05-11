@@ -406,7 +406,7 @@ waline:
 # https://twikoo.js.org
 twikoo:
   enable: true
-  envId: https://pl-seven-gilt.vercel.app
+  envId: https://twikoo-15vx.vercel.app
   region:
   meta:
     - nick
