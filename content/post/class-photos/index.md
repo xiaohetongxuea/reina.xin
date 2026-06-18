@@ -1,15 +1,13 @@
 ---
-title: 班级合照
+title: 班级群二维码
 date: 2026-06-18
 cover: 2502.jpg
-tags:
-  - 日常
-  - 记录
-categories:
-  - 随笔
+build:
+  list: never
+  publishResources: true
 ---
 
-记录一下班级的合照们。
+各班班级群二维码，扫码入群。
 
 ![2502](2502.jpg)
 ![2505](2505.jpg)
